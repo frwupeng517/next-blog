@@ -1,0 +1,12 @@
+@import '~antd/dist/antd.css';
+
+body {
+  background-color: aliceblue;
+}
+
+.container-layout {
+  width: 1080px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+}

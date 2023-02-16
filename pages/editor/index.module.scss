@@ -1,0 +1,15 @@
+.container {
+  margin: 0 auto;
+  .operation {
+    display: flex;
+    .title {
+      width: 80%;
+    }
+    .tag {
+      width: 15%;
+    }
+    .btn {
+      width: 5%;
+    }
+  }
+}
